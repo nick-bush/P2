@@ -9,6 +9,19 @@ The finished app would allow users to create a profile, create posts, follow oth
 ### App Development
 Goal Digger was developed using behavior-driven development. In the planning stage, User Stories were created, and ordered by importance, feasibility, and difficulty in Trello. Sample use cases were developed to define the app's behavior. ER diagrams were constructed to created database schemas. All of the software design elements were then mapped into C# code, organized into projects, tested, analyzed, and deployed through Azure Pipelines. 
 
+### Tech Stack
+C#, ASP.NET Web API, SQL Server, ADO.NET Entity Framework, HTML, JavaScript, CSS, Microsoft Azure, ASP.NET MVC, Docker, Azure DevOps
+
+### Implementation Details
+* Developed a social media app from the ground up, using numerous integrated technologies.
+* Implemented UI features with HTML, CSS, and Angular.
+* Organized the team project using Agile Scrum methodology.
+* Created RESTful services to allow for layering and abstraction.
+* Utilized APIs with SQL to perform CRUD operations.
+* Composed multiple images into a single application using Docker.
+* Employed Azure DevOps to establish and use a CI/CD pipeline.
+* Deployed the application to the cloud for public consumption.
+
 
 https://goaldiggerapp.azurewebsites.net
 
